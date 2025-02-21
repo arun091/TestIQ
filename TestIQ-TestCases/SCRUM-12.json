@@ -1,1 +1,1 @@
-[{"id":"_159d7d2d547f4","label":"Verify OTP format","isChecked":true},{"id":"_d2b3cc3f1c7b","label":"New test case added","isChecked":false}]
+[{"label":"Verify OTP generation and SMS delivery","id":"_d79c1ef4320f1"},{"label":"Verify OTP format","id":"_05cdbec755d6d"}]
